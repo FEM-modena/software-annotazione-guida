@@ -1,3 +1,6 @@
+* TOC
+{:toc}
+
 Questo documento 
 
 # Strumenti
